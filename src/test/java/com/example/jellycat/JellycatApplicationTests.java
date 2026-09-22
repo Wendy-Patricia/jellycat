@@ -9,5 +9,4 @@ class JellycatApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
